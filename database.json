@@ -1,0 +1,48 @@
+{
+    "color" : {
+
+        "red" : [255, 0, 0],
+
+        "green" : [0, 255, 0],
+
+        "blue" : [0, 0, 255],
+
+        "secondary_blue" : [6, 110, 217],
+
+        "white" : [255, 255, 255],
+        "fade_white" : [220, 220, 220],
+        "font_enabled" : [220, 220, 220],
+        "font_disabled" : [150, 150, 150],
+
+        "black" : [0, 0, 0],
+
+        "fade_black" : [30, 30, 30],
+        "theme" : [30, 30, 30],
+
+        "titlebar" : [25, 25, 25],
+        "taskbar" : [25, 25, 25],
+        "widgetbar" : [25,  25, 25],
+        "propertyeditor" : [25, 25, 25],
+        "eventeditor" : [25, 25, 25],
+        "workspace_base" : [25, 25, 25],
+
+        "titlebar_button_BG" : [50, 50, 50],
+        "border_line" : [50, 50, 50],
+
+        "entry_active" : [6, 110 , 217],
+        "entry_inactive" : [50, 50, 50],
+
+        "graph_line" : [50, 50, 50]
+
+
+    },
+
+    "path" : {
+        "font" : "Assets/Font/Poppins-Medium.ttf",
+        "italic_font" : "Assets/Font/Poppins-Italic.ttf",
+        "bold_font" : "Assets/Font/Poppins-Bold.ttf",
+
+        "select_img" : "Assets/Images/select.png",
+        "no_preview" : "Assets/Images/no_preview.png"
+    }
+}
